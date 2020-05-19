@@ -4,4 +4,5 @@ Designed and implemented a __Numbeo__ (https://www.numbeo.com/cost-of-living/) w
 
 __Cost of living index__ is measured against New York city, meaning NYC has a cost index of 100 and the remaining cities get their cost of living index with regards to how much more or less expensive are compared to NYC.
 
-The scrapped data is intended to be used for visualisation analysis and modelling.
+__Functionality__
+Given a list of cities the crawler will retrieve information related to the abovementioned. It will then convert the values and concatenate the retrieved information into a single dataframe.
