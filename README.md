@@ -8,3 +8,4 @@ Is measured against New York city, meaning NYC has a cost index of 100 and the r
 
 __Functionality__ :
 Given a list of cities the crawler will retrieve information related to the abovementioned. It will then convert the values and concatenate the retrieved information into a single dataframe. Each row represents information about a different city allocated in 55 different features. If the crawler is unable to mine any piece of requested information about a particullar city, it will omit it from the dataframe.
+Cities where the cost of living index is not available, it has been registered as 0, they can be used as test set for predictive modelling.
