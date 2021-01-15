@@ -8,3 +8,6 @@ Cities where the cost of living index is not available, it has been registered a
 
 __Aim__
 The purpose of this project is to acquire data from various cities and predict the price for services, goods and cost index for cities that there is no related given information. In addition, meaningful information can be extracted through analysis. 
+
+__Storage__
+The data is being stored in a MongoDB repository for future usage.
