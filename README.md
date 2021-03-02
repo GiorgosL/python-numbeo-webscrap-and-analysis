@@ -11,10 +11,3 @@ The purpose of this project is to acquire data from various cities and predict t
 
 
 
-
-
-
-consumer_key="z6NNNbcgLTR6cKTU87yq75qC9"
-consumer_secret="eXPAthJgm6s089idPp02444munJf0jFgTcIf1ipVyp714m70y2"
-access_token="1044683220472811522-96CTfG9s3Ik88LVzKmgYx6zq1rBsSr"
-access_token_secret="H4u7pX3LfendkD4QY2eAeFK2xfBnRuqRmQuUaXe5WCWsz"
