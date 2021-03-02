@@ -8,3 +8,13 @@ Cities where the cost of living index is not available, it has been registered a
 
 __Aim__
 The purpose of this project is to acquire data from various cities and predict the price for services, goods and cost index for cities that there is no related given information. In addition, meaningful information can be extracted through analysis. 
+
+
+
+
+
+
+consumer_key="z6NNNbcgLTR6cKTU87yq75qC9"
+consumer_secret="eXPAthJgm6s089idPp02444munJf0jFgTcIf1ipVyp714m70y2"
+access_token="1044683220472811522-96CTfG9s3Ik88LVzKmgYx6zq1rBsSr"
+access_token_secret="H4u7pX3LfendkD4QY2eAeFK2xfBnRuqRmQuUaXe5WCWsz"
