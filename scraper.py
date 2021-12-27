@@ -10,7 +10,7 @@ class NumbeoScraper:
 	def __init__(self):
 		logging.basicConfig(filename='example.log', level=logging.DEBUG)
 		logging.debug('Scrapper initialised')
-		self.client = pymongo.MongoClient("mongodb+srv://Giorgos:Uplifting7@cluster0.1gk0o.mongodb.net", 
+		self.client = pymongo.MongoClient("", 
 		                 tls=True,
 		                 tlsAllowInvalidCertificates=True)
 		self.db = self.client["scrape_db"]
